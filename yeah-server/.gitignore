@@ -1,0 +1,12 @@
+.idea/
+.vscode/
+node_modules/
+build/
+temp/
+.env
+coverage
+dist
+
+uploads/*
+!uploads/.gitkeep
+yarn.lock

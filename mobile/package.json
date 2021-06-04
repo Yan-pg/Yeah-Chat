@@ -1,0 +1,47 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@expo-google-fonts/roboto": "^0.1.0",
+    "@expo/vector-icons": "^12.0.0",
+    "@react-native-async-storage/async-storage": "^1.15.4",
+    "@react-native-community/blur": "^3.6.0",
+    "@react-native-community/masked-view": "^0.1.10",
+    "@react-navigation/native": "^5.9.3",
+    "@react-navigation/stack": "^5.14.3",
+    "axios": "^0.21.1",
+    "expo": "~40.0.0",
+    "expo-blur": "~8.2.2",
+    "expo-camera": "~9.1.0",
+    "expo-image-picker": "~9.2.0",
+    "expo-linear-gradient": "~8.4.0",
+    "expo-status-bar": "~1.0.3",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-40.0.1.tar.gz",
+    "react-native-gesture-handler": "^1.10.3",
+    "react-native-safe-area-context": "^3.2.0",
+    "react-native-screens": "^2.18.1",
+    "react-native-web": "~0.13.12",
+    "react-navigation-stack": "^2.10.4",
+    "socket.io-client": "^4.0.1",
+    "styled-components": "^5.2.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@types/react": "~16.9.35",
+    "@types/react-dom": "~16.9.8",
+    "@types/react-native": "~0.63.2",
+    "@types/styled-components": "^5.1.9",
+    "@types/styled-components-react-native": "^5.1.1",
+    "eslint-config-react-native-wcandillon": "^3.5.0",
+    "typescript": "~4.0.0"
+  },
+  "private": true
+}
